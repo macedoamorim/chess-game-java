@@ -1,25 +1,33 @@
-# ♟️ Jogo de Xadrez em Java
+# ♟️ Chess Game
 
-Projeto desenvolvido com o objetivo de praticar **lógica de programação** e **orientação a objetos**, utilizando as regras básicas do jogo de xadrez.
+♜ Console-based **chess game developed in Java**, following object-oriented principles and simulating the main rules of chess.
 
-## 🎯 Objetivo do projeto
-Simular uma partida de xadrez entre dois jogadores no console.
+---
 
-## ⚙️ Funcionalidades
-✔ Tabuleiro de xadrez  
-✔ Movimentação das peças  
-✔ Validação de jogadas  
-✔ Alternância de turnos  
+## ✨ Features
+- ♞ Complete chess board representation  
+- ♜ Piece movement validation  
+- ⚔️ Capture system  
+- 🎯 Turn-based gameplay  
+- 🧠 Object-oriented design  
 
-## 🧠 Conceitos aplicados
-- Variáveis
-- Condições (if/else)
-- Laços de repetição
-- Classes e objetos
-- Métodos
+---
 
-## 🛠️ Tecnologias
-- Java
+## 🛠️ Technologies Used
+- ☕ Java  
+- 🧠 Object-Oriented Programming (OOP)  
+- 🔁 Loops  
+- 🔀 Conditional structures  
 
-## ▶️ Como executar
-Abra o projeto e execute a classe `Main.java`.
+---
+
+## ▶️ How to Run
+1. 📥 Clone the repository  
+2. 💻 Open the project in a Java IDE (Eclipse, IntelliJ or VS Code)  
+3. ▶️ Run the main class  
+4. ♟️ Play through the terminal  
+
+---
+
+## 🎯 Purpose
+This project was created to practice **Java**, object-oriented programming, and game logic through a classic board game.
